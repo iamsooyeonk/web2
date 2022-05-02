@@ -1,0 +1,12 @@
+*{margin:0;padding:0;box-sizing:border-box;vertical-align:middle;}
+html, body {width:100%;height:100%;}
+body {
+  font:normal 14px/1 '굴림','arial';
+  color:#333;
+  background:#fff;
+}
+a {color:#333;text-decoration:none;} 
+ul,li {list-style:none;}
+h1,h2,h3,h4,h5,h6 {font-size:14px;font-weight:normal;}
+header, main, footer, section, aside, article, nav {display:block;}
+em,i,address {font-style:normal}
